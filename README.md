@@ -1,7 +1,7 @@
 ### Hello 👋
-- 👨‍💻 I am a fullstack developer with more than 1year experience, also I have experince on iOS development about 1year.
-- 💻 I use Laravel, and NodeJS.
-- 🌱 I’m currently learning Cloud Computing, Machine Learning and other cool stuff.
+- 👨‍💻 I am a researcher that focus in computer security, especially in Malware Detection.
+- 💻 My primary programming language is Python, but I have more than 5 years experience in Web Development especially Laravel.
+- 🔭 I’m currently working on project about Ransomware Defender.
 - ⚡ I have a certification on <a href="https://www.credential.net/b43a9dae-435e-4ff9-bbb9-9d9335788193" target="_blank">Google Certified ACE</a>
 
 <!--
